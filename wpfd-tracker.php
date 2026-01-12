@@ -10,7 +10,7 @@ if (!defined('ABSPATH')) exit;
 
 // GitHub Updater Configuration
 define('WPFD_STATS_VERSION', '3.3');
-define('WPFD_STATS_GITHUB_USERNAME', 'tylercouty');
+define('WPFD_STATS_GITHUB_USERNAME', 'tcouty');
 define('WPFD_STATS_GITHUB_REPO', 'wpfd-tracker');
 define('WPFD_STATS_PLUGIN_FILE', __FILE__);
 define('WPFD_STATS_PLUGIN_SLUG', plugin_basename(__FILE__));
